@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoinFactoryTestV1", "JoinFactoryTestV1\JoinFactoryTestV1.csproj", "{21DECFA9-1397-48C4-8F67-4785F48988CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21DECFA9-1397-48C4-8F67-4785F48988CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21DECFA9-1397-48C4-8F67-4785F48988CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21DECFA9-1397-48C4-8F67-4785F48988CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21DECFA9-1397-48C4-8F67-4785F48988CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2F3F15E-CC53-47E5-96C1-12F9249AC786}
+	EndGlobalSection
+EndGlobal
